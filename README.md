@@ -41,3 +41,4 @@ A simple PHP-based authentication system with login, registration, and logout fu
 ## License
 
 ISC License - See LICENSE file for details
+
