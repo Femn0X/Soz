@@ -1,0 +1,26 @@
+{
+  "name": "authentication-system",
+  "version": "1.0.0",
+  "description": "A simple PHP-based authentication system with login, registration, and logout functionality",
+  "author": "Femn0X",
+  "license": "ISC",
+  "keywords": [
+    "php",
+    "authentication",
+    "login",
+    "registration",
+    "session"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/authentication-system.git"
+  },
+  "requirements": {
+    "php": ">=7.4",
+    "composer": "latest"
+  },
+  "scripts": {
+    "install-deps": "composer install",
+    "serve": "php -S localhost:8000"
+  }
+}
