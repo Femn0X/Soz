@@ -1,0 +1,20 @@
+{
+    "name": "femn0x/soz",
+    "type": "project",
+    "license": "ISC",
+    "description": "A simple login system for php",
+    "github": "",
+    "autoload": {
+        "psr-4": {
+            "Femn0x\\Soz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Femn0X"
+        }
+    ],
+    "require": {
+        "ramsey/uuid": "^4.9"
+    }
+}

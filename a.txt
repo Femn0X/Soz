@@ -1,0 +1,3 @@
+id	username	email	password	uuid
+2	Femn0x	lucawinecker@gmail.com	$2y$10$nUDnqY18YCJnUzB9KJGUrODMpxCL0OwSXiTje6AKFhQTIJuPFZika	207b042b-3313-49ab-b428-0b49f61f7f91
+3	kochdenkoch	cooking@chefkoch.de	$2y$10$/psQO6ujFVKJsrlPP07B3OuWn.CdhHsRF0rkBaPbeIJJa1z1u2uNC	3cb41722-3cc1-4739-8886-1f87e301c6e3
