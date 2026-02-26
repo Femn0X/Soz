@@ -11,7 +11,7 @@ body {
 }
 
 /* Style the login form container */
-main {
+#postForm {
     background-color: #ffffff; /* bg-white */
     padding: 2rem; /* p-8 */
     border-radius: 0.5rem; /* rounded-lg */
@@ -25,7 +25,7 @@ main {
 }
 
 /* Input fields styling */
-main input {
+#postForm input {
     border: 1px solid #d1d5db; /* border-gray-300 */
     border-radius: 0.25rem; /* rounded */
     padding: 0.5rem 1rem; /* px-4 py-2 */
@@ -33,13 +33,13 @@ main input {
     transition: all 0.2s ease-in-out;
 }
 
-main input:focus {
+#postForm input:focus {
     border-color: transparent;
     box-shadow: 0 0 0 2px #3b82f6; /* focus:ring-2 focus:ring-blue-500 */
 }
 
 /* Button styling */
-main button {
+#postForm button {
     background-color: #3b82f6; /* bg-blue-500 */
     color: white;
     font-weight: 600; /* font-semibold */
@@ -50,11 +50,11 @@ main button {
     transition: background-color 0.2s ease-in-out;
 }
 
-main button:hover {
+#postForm button:hover {
     background-color: #2563eb; /* hover:bg-blue-600 */
 }
 
 /* Optional: placeholder color */
-main input::placeholder {
+#postForm input::placeholder {
     color: #9ca3af; /* text-gray-400 */
 }

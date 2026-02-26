@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Authentication System
 
 A simple PHP-based authentication system with login, registration, and logout functionality.
@@ -15,9 +14,11 @@ A simple PHP-based authentication system with login, registration, and logout fu
 
 1. Clone the repository
 2. Install dependencies using Composer:
+
    ```bash
    composer install
    ```
+
 3. Configure your web server to serve the project
 4. Access the application through your browser
 
@@ -42,49 +43,3 @@ A simple PHP-based authentication system with login, registration, and logout fu
 ## License
 
 ISC License - See LICENSE file for details
-
-=======
-# Authentication System
-
-A simple PHP-based authentication system with login, registration, and logout functionality.
-
-## Features
-
-- User registration
-- User login
-- Session management
-- Logout functionality
-- Responsive design with Tailwind CSS
-
-## Installation
-
-1. Clone the repository
-2. Install dependencies using Composer:
-   ```bash
-   composer install
-   ```
-3. Configure your web server to serve the project
-4. Access the application through your browser
-
-## Files
-
-- `login.php` - User login page
-- `register.php` - User registration page
-- `logout.php` - Logout handler
-- `main.html` - Main dashboard page
-- `index.html` - Home page
-- `style.css` - Custom styles
-- `index.css` - Index styles
-
-## Usage
-
-1. Navigate to `index.html` to start
-2. Click on login or register
-3. Enter your credentials
-4. Upon successful authentication, you'll be redirected to the main dashboard
-5. Click logout to end your session
-
-## License
-
-ISC License - See LICENSE file for details
->>>>>>> Stashed changes
